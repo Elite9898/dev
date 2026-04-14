@@ -109,6 +109,7 @@ sprawdziany
 plan lekcji
 notatki
 ustawienia timera
+
 📌 Status projektu
 
 Projekt ukończony jako MVP (Minimum Viable Product):
@@ -119,11 +120,13 @@ Projekt ukończony jako MVP (Minimum Viable Product):
 ✔ wersja desktopowa (.exe)
 
 🔮 Możliwy rozwój
+
 eksport / import danych (JSON)
 synchronizacja w chmurze
 statystyki nauki
 system kont użytkowników
 powiadomienia systemowe
+
 🎯 Cel projektu
 
 Celem projektu było stworzenie realnej aplikacji:
